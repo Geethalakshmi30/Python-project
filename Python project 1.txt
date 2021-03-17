@@ -1,0 +1,20 @@
+#string concetaenetion
+##suppose we want to create the string that says "subscribe -------"
+#youtuber = "JUNO"
+
+#print("subscribe to the our channel + youtuber")
+#print("subscribe to our channel {}" .format(youtuber))
+
+#print(f"subscribe to the {youtuber}")
+
+express_words = input("Adjective: ")
+Verb1 = input("verb: ")
+
+Verb2 = input("verb2: ")
+
+famous_person = input("famous_person:")
+
+testoutput = f"Computer programming is so {express_words}! It makes so much exicited \
+I love to {Verb1}. Stay the hydrated and wanna be {Verb1} like you  {famous_person}!"
+
+print(testoutput)
