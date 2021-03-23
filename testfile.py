@@ -1,4 +1,4 @@
-import random   
+import random
 
 def play():
     user = input("please pick from the list--------------?'r' for rock, 'p' for paper, 's' for scissors\n:")
